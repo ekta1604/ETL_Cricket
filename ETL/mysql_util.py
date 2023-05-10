@@ -2,6 +2,7 @@ import mysql.connector
 import os
 import glob
 import csv
+import json
 
 # Define the connection details
 connection_config = {
@@ -103,10 +104,14 @@ def insert_data(table_name, csv_file):
     conn.commit()
     print(f"Data from '{csv_file}' inserted into '{table_name}' successfully")
 
+# Read the JSON config file
+with open('config.json') as f:
+    config_data = json.load(f)
 
-# Define the paths
-raw_files_path = "C:/Users/archi/OneDrive/Desktop/Internship/repo/ETL_Cricket/ETL/raw_files"
-processed_files_path = "C:/Users/archi/OneDrive/Desktop/Internship/repo/ETL_Cricket/ETL/processed_files"
+# Get the paths from the 'paths' section of the config file
+paths = config_data['paths']
+raw_files_path = paths['raw_files_path']
+processed_files_path = paths['processed_files_path']
 
 # Get a list of CSV files in the processed_files folder
 csv_files = glob.glob(os.path.join(processed_files_path, "*.csv"))
