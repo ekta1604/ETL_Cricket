@@ -7,10 +7,15 @@ import csv
 import math
 import shutil
 
-# define the paths to the raw_files directory and the status.csv file
-raw_files_path = "C:/Users/archi/OneDrive/Desktop/ETL/row_files"
-processed_files_path = "C:/Users/archi/OneDrive/Desktop/ETL/processed_files"
-status_file_path = "C:/Users/archi/OneDrive/Desktop/ETL/status/status.csv"
+# Read the JSON config file
+with open('config.json') as f:
+    config_data = json.load(f)
+
+# Get the paths from the 'paths' section of the config file
+paths = config_data['paths']
+raw_files_path = paths['raw_files_path']
+processed_files_path = paths['processed_files_path']
+status_file_path = paths['status_file_path']
 
 processed_files = set()
 
@@ -41,6 +46,7 @@ for file_path in unprocessed_files:
             data = json.load(f)
 
         # Extract relevant information
+        match_number = data['info']['event']['match_number']
         season = data['info']['season']
         toss_winner = data['info']['toss']['winner']
         toss_decision = data['info']['toss']['decision']
@@ -66,7 +72,7 @@ for file_path in unprocessed_files:
                     else:
                         over_no_str = str(int(over_no) - 20) + '.' + '0'*(1-math.floor(math.log10(int(over_no) - 19)))
                     row = {
-                        'match_number': data['info']['event']['match_number'],
+                        'match_number': match_number,
                         'season': season,
                         'city': city,
                         'venue': venue,
@@ -92,13 +98,14 @@ for file_path in unprocessed_files:
                     rows.append(row)
 
         # Write the flattened data to a CSV file
-        csv_filepath = os.path.join('row_files', filename[:-5] + '.csv')
+        csv_filepath = os.path.join(raw_files_path, filename[:-5] + '.csv')
+
         print('Creating CSV file:', csv_filepath)
         with open(csv_filepath, 'w', newline='') as f:
             writer = csv.DictWriter(f, fieldnames=rows[0].keys())
             writer.writeheader()
             writer.writerows(rows)
-
+            
         # move the CSV file to the processed_files folder
         shutil.move(csv_filepath, os.path.join(processed_files_path, filename[:-5] + '.csv'))
 

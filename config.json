@@ -1,0 +1,9 @@
+{
+    "paths": {
+        "raw_files_path" : "C:/Users/archi/OneDrive/Desktop/Internship/repo/ETL_Cricket/ETL/raw_files",
+        "processed_files_path":"C:/Users/archi/OneDrive/Desktop/Internship/repo/ETL_Cricket/ETL/processed_files",
+        "status_file_path" : "C:/Users/archi/OneDrive/Desktop/Internship/repo/ETL_Cricket/ETL/status/status.csv"
+    }
+  }
+ 
+ 
