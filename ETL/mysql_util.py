@@ -3,14 +3,18 @@ import os
 import glob
 import csv
 
+# Define the connection details
+connection_config = {
+    'host': 'localhost',
+    'user': 'root',
+    'port': 3307,
+    'password': 'root',
+    'database': 'IPL_data'
+}
+
 def create_database(database_name):
     """Create a MySQL database if it does not exist."""
-    conn = mysql.connector.connect(
-        host='localhost',
-        user='root',
-        port=3307,
-        password='root'
-    )
+    conn = mysql.connector.connect(**connection_config)
     cursor = conn.cursor()
 
     try:
@@ -24,13 +28,7 @@ def create_database(database_name):
 
 def create_table(table_name, column_names):
     """Create a table in the MySQL database."""
-    conn = mysql.connector.connect(
-        host='localhost',
-        user='root',
-        port=3307,
-        password='root',
-        database='IPL_data'
-    )
+    conn = mysql.connector.connect(**connection_config)
     cursor = conn.cursor()
 
     # Generate a valid table name based on the CSV file name
@@ -60,13 +58,7 @@ def create_table(table_name, column_names):
 
 def insert_data(table_name, csv_file):
     # Code to insert data into the table...
-    conn = mysql.connector.connect(
-        host='localhost',
-        user='root',
-        port=3307,
-        password='root',
-        database='IPL_data'
-    )
+    conn = mysql.connector.connect(**connection_config)
     cursor = conn.cursor()
     with open(csv_file, 'r') as f:
         csv_reader = csv.reader(f)
@@ -98,13 +90,14 @@ def insert_data(table_name, csv_file):
                 byes = int(float(row[21]))
 
                 insert_query = f"INSERT INTO `{table_name}` VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+              
                 values = (match_number, season, city, venue, gender, match_type, toss_winner, toss_decision, teams,
                           team, over, ballno, batter, bowler, non_striker, runs_batter, runs_extras, runs_total,
                           legbyes, wides, noballs, byes)
                 cursor.execute(insert_query, values)
-                print(f"Inserted row: {values}")
+                #print(f"Inserted row: {values}")
             except Exception as e:
-                print(f"Error inserting row: {values}")
+                #print(f"Error inserting row: {values}")
                 print(f"Error: {e}")
 
     conn.commit()
