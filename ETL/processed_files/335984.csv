@@ -1,220 +1,220 @@
-match_number,season,city,venue,gender,match_type,toss_winner,toss_decision,teams,team,over,ballno,batter,bowler,non_striker,runs_batter,runs_extras,runs_total,legbyes,wides,noballs,byes
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,1,1,T Kohli,GD McGrath,YK Pathan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,1,2,T Kohli,GD McGrath,YK Pathan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,1,3,T Kohli,GD McGrath,YK Pathan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,1,4,T Kohli,GD McGrath,YK Pathan,0,1,1,0,1,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,1,5,T Kohli,GD McGrath,YK Pathan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,1,6,T Kohli,GD McGrath,YK Pathan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,2,7,T Kohli,GD McGrath,YK Pathan,6,0,6,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,2,8,YK Pathan,B Geeves,T Kohli,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,2,9,T Kohli,B Geeves,YK Pathan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,2,10,T Kohli,B Geeves,YK Pathan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,2,11,T Kohli,B Geeves,YK Pathan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,2,12,YK Pathan,B Geeves,T Kohli,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,3,13,YK Pathan,B Geeves,T Kohli,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,3,14,T Kohli,GD McGrath,YK Pathan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,3,15,T Kohli,GD McGrath,YK Pathan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,3,16,T Kohli,GD McGrath,YK Pathan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,3,17,SR Watson,GD McGrath,YK Pathan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,3,18,SR Watson,GD McGrath,YK Pathan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,4,19,SR Watson,GD McGrath,YK Pathan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,4,20,YK Pathan,B Geeves,SR Watson,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,4,21,SR Watson,B Geeves,YK Pathan,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,4,22,SR Watson,B Geeves,YK Pathan,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,4,23,SR Watson,B Geeves,YK Pathan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,4,24,YK Pathan,B Geeves,SR Watson,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,5,25,SR Watson,B Geeves,M Kaif,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,5,26,M Kaif,GD McGrath,SR Watson,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,5,27,M Kaif,GD McGrath,SR Watson,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,5,28,M Kaif,GD McGrath,SR Watson,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,5,29,SR Watson,GD McGrath,M Kaif,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,5,30,SR Watson,GD McGrath,M Kaif,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,6,31,SR Watson,GD McGrath,M Kaif,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,6,32,SR Watson,MF Maharoof,M Kaif,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,6,33,SR Watson,MF Maharoof,M Kaif,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,6,34,M Kaif,MF Maharoof,SR Watson,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,6,35,M Kaif,MF Maharoof,SR Watson,0,1,1,1,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,6,36,SR Watson,MF Maharoof,M Kaif,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,7,37,M Kaif,MF Maharoof,SR Watson,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,7,38,SR Watson,R Bhatia,M Kaif,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,7,39,SR Watson,R Bhatia,M Kaif,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,7,40,M Kaif,R Bhatia,DS Lehmann,2,0,2,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,7,41,M Kaif,R Bhatia,DS Lehmann,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,7,42,M Kaif,R Bhatia,DS Lehmann,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,8,43,M Kaif,R Bhatia,DS Lehmann,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,8,44,M Kaif,MF Maharoof,DS Lehmann,0,1,1,1,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,8,45,DS Lehmann,MF Maharoof,M Kaif,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,8,46,M Kaif,MF Maharoof,DS Lehmann,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,8,47,DS Lehmann,MF Maharoof,M Kaif,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,8,48,RA Jadeja,MF Maharoof,M Kaif,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,9,49,RA Jadeja,MF Maharoof,M Kaif,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,9,50,RA Jadeja,R Bhatia,M Kaif,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,9,51,RA Jadeja,R Bhatia,M Kaif,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,9,52,RA Jadeja,R Bhatia,M Kaif,0,1,1,0,0,0,1
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,9,53,M Kaif,R Bhatia,RA Jadeja,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,9,54,RA Jadeja,R Bhatia,M Kaif,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,10,55,RA Jadeja,R Bhatia,M Kaif,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,10,56,RA Jadeja,MF Maharoof,M Kaif,0,1,1,1,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,10,57,M Kaif,MF Maharoof,RA Jadeja,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,10,58,RA Jadeja,MF Maharoof,M Kaif,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,10,59,M Kaif,MF Maharoof,RA Jadeja,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,10,60,RA Jadeja,MF Maharoof,M Kaif,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,11,61,M Kaif,MF Maharoof,RA Jadeja,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,11,62,M Kaif,R Bhatia,RA Jadeja,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,11,63,M Kaif,R Bhatia,RA Jadeja,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,11,64,M Kaif,R Bhatia,RA Jadeja,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,11,65,M Rawat,R Bhatia,RA Jadeja,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,11,66,RA Jadeja,R Bhatia,M Rawat,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,12,67,RA Jadeja,R Bhatia,M Rawat,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,12,68,RA Jadeja,DL Vettori,M Rawat,6,0,6,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,12,69,RA Jadeja,DL Vettori,M Rawat,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,12,70,RA Jadeja,DL Vettori,M Rawat,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,12,71,M Rawat,DL Vettori,RA Jadeja,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,12,72,M Rawat,DL Vettori,RA Jadeja,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,13,73,RA Jadeja,DL Vettori,M Rawat,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,13,74,M Rawat,R Bhatia,RA Jadeja,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,13,75,D Salunkhe,R Bhatia,RA Jadeja,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,13,76,D Salunkhe,R Bhatia,RA Jadeja,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,13,77,RA Jadeja,R Bhatia,D Salunkhe,0,2,2,0,2,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,13,78,D Salunkhe,R Bhatia,RA Jadeja,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,14,79,D Salunkhe,R Bhatia,RA Jadeja,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,14,80,RA Jadeja,R Bhatia,D Salunkhe,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,14,81,RA Jadeja,B Geeves,D Salunkhe,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,14,82,RA Jadeja,B Geeves,D Salunkhe,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,14,83,D Salunkhe,B Geeves,RA Jadeja,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,14,84,RA Jadeja,B Geeves,D Salunkhe,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,15,85,RA Jadeja,B Geeves,D Salunkhe,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,15,86,D Salunkhe,B Geeves,RA Jadeja,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,15,87,RA Jadeja,DL Vettori,D Salunkhe,6,0,6,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,15,88,RA Jadeja,DL Vettori,D Salunkhe,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,15,89,SK Warne,DL Vettori,D Salunkhe,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,15,90,SK Warne,DL Vettori,D Salunkhe,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,16,91,D Salunkhe,DL Vettori,SK Warne,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,16,92,SK Warne,DL Vettori,D Salunkhe,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,16,93,SK Warne,B Geeves,D Salunkhe,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,16,94,SK Warne,B Geeves,D Salunkhe,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,16,95,SK Warne,B Geeves,D Salunkhe,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,16,96,SK Warne,B Geeves,D Salunkhe,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,17,97,SK Warne,B Geeves,D Salunkhe,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,17,98,SK Warne,B Geeves,D Salunkhe,2,0,2,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,17,99,D Salunkhe,DL Vettori,SK Warne,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,17,100,SK Warne,DL Vettori,D Salunkhe,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,17,101,SK Warne,DL Vettori,D Salunkhe,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,17,102,D Salunkhe,DL Vettori,SK Warne,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,18,103,D Salunkhe,DL Vettori,SK Warne,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,18,104,SK Warne,DL Vettori,D Salunkhe,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,18,105,SK Warne,MF Maharoof,D Salunkhe,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,18,106,SK Trivedi,MF Maharoof,D Salunkhe,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,18,107,SK Trivedi,MF Maharoof,D Salunkhe,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,18,108,SK Trivedi,MF Maharoof,D Salunkhe,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,19,109,SK Trivedi,MF Maharoof,D Salunkhe,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,19,110,D Salunkhe,MF Maharoof,SK Trivedi,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,19,111,SK Trivedi,DL Vettori,D Salunkhe,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,19,112,SK Trivedi,DL Vettori,D Salunkhe,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,19,113,D Salunkhe,DL Vettori,SK Trivedi,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,19,114,D Salunkhe,DL Vettori,SK Trivedi,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,20,115,D Salunkhe,DL Vettori,SK Trivedi,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,20,116,D Salunkhe,DL Vettori,SK Trivedi,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,20,117,D Salunkhe,GD McGrath,SK Trivedi,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,20,118,D Salunkhe,GD McGrath,SK Trivedi,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,20,119,D Salunkhe,GD McGrath,SK Trivedi,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,20,120,SK Trivedi,GD McGrath,D Salunkhe,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,1.0,121,D Salunkhe,GD McGrath,SK Trivedi,2,0,2,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,1.0,122,D Salunkhe,GD McGrath,SK Trivedi,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,1.0,123,G Gambhir,MM Patel,V Sehwag,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,1.0,124,G Gambhir,MM Patel,V Sehwag,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,1.0,125,G Gambhir,MM Patel,V Sehwag,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,1.0,126,G Gambhir,MM Patel,V Sehwag,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,2.0,127,G Gambhir,MM Patel,V Sehwag,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,2.0,128,G Gambhir,MM Patel,V Sehwag,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,2.0,129,V Sehwag,SR Watson,G Gambhir,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,2.0,130,V Sehwag,SR Watson,G Gambhir,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,2.0,131,V Sehwag,SR Watson,G Gambhir,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,2.0,132,V Sehwag,SR Watson,G Gambhir,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,3.0,133,S Dhawan,SR Watson,G Gambhir,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,3.0,134,S Dhawan,SR Watson,G Gambhir,0,1,1,0,1,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,3.0,135,S Dhawan,SR Watson,G Gambhir,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,3.0,136,G Gambhir,MM Patel,S Dhawan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,3.0,137,G Gambhir,MM Patel,S Dhawan,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,3.0,138,G Gambhir,MM Patel,S Dhawan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,4.0,139,G Gambhir,MM Patel,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,4.0,140,S Dhawan,MM Patel,G Gambhir,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,4.0,141,S Dhawan,MM Patel,G Gambhir,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,4.0,142,G Gambhir,SR Watson,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,4.0,143,S Dhawan,SR Watson,G Gambhir,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,4.0,144,S Dhawan,SR Watson,G Gambhir,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,5.0,145,S Dhawan,SR Watson,G Gambhir,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,5.0,146,G Gambhir,SR Watson,S Dhawan,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,5.0,147,G Gambhir,SR Watson,S Dhawan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,5.0,148,S Dhawan,MM Patel,G Gambhir,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,5.0,149,S Dhawan,MM Patel,G Gambhir,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,5.0,150,G Gambhir,MM Patel,S Dhawan,6,0,6,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,6.0,151,G Gambhir,MM Patel,S Dhawan,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,6.0,152,G Gambhir,MM Patel,S Dhawan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,6.0,153,G Gambhir,MM Patel,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,6.0,154,G Gambhir,SK Trivedi,S Dhawan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,6.0,155,G Gambhir,SK Trivedi,S Dhawan,0,1,1,0,1,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,6.0,156,G Gambhir,SK Trivedi,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,7.0,157,S Dhawan,SK Trivedi,G Gambhir,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,7.0,158,S Dhawan,SK Trivedi,G Gambhir,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,7.0,159,S Dhawan,SK Trivedi,G Gambhir,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,7.0,160,G Gambhir,SK Trivedi,S Dhawan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,7.0,161,S Dhawan,SR Watson,G Gambhir,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,7.0,162,G Gambhir,SR Watson,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,8.0,163,S Dhawan,SR Watson,G Gambhir,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,8.0,164,S Dhawan,SR Watson,G Gambhir,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,8.0,165,S Dhawan,SR Watson,G Gambhir,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,8.0,166,G Gambhir,SR Watson,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,8.0,167,G Gambhir,SK Trivedi,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,8.0,168,S Dhawan,SK Trivedi,G Gambhir,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,9.,169,S Dhawan,SK Trivedi,G Gambhir,0,1,1,0,1,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,9.,170,S Dhawan,SK Trivedi,G Gambhir,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,9.,171,S Dhawan,SK Trivedi,G Gambhir,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,9.,172,S Dhawan,SK Trivedi,G Gambhir,2,0,2,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,9.,173,S Dhawan,SK Trivedi,G Gambhir,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,9.,174,G Gambhir,SK Warne,S Dhawan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,10.,175,G Gambhir,SK Warne,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,10.,176,S Dhawan,SK Warne,G Gambhir,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,10.,177,S Dhawan,SK Warne,G Gambhir,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,10.,178,S Dhawan,SK Warne,G Gambhir,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,10.,179,G Gambhir,SK Warne,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,10.,180,G Gambhir,YK Pathan,S Dhawan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,11.,181,G Gambhir,YK Pathan,S Dhawan,0,1,1,0,1,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,11.,182,G Gambhir,YK Pathan,S Dhawan,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,11.,183,G Gambhir,YK Pathan,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,11.,184,S Dhawan,YK Pathan,G Gambhir,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,11.,185,G Gambhir,YK Pathan,S Dhawan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,11.,186,G Gambhir,YK Pathan,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,12.,187,G Gambhir,SK Warne,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,12.,188,S Dhawan,SK Warne,G Gambhir,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,12.,189,G Gambhir,SK Warne,S Dhawan,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,12.,190,G Gambhir,SK Warne,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,12.,191,S Dhawan,SK Warne,G Gambhir,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,12.,192,G Gambhir,SK Warne,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,13.,193,G Gambhir,YK Pathan,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,13.,194,S Dhawan,YK Pathan,G Gambhir,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,13.,195,G Gambhir,YK Pathan,S Dhawan,2,0,2,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,13.,196,G Gambhir,YK Pathan,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,13.,197,S Dhawan,YK Pathan,G Gambhir,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,13.,198,S Dhawan,YK Pathan,G Gambhir,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,14.,199,G Gambhir,D Salunkhe,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,14.,200,S Dhawan,D Salunkhe,G Gambhir,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,14.,201,G Gambhir,D Salunkhe,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,14.,202,S Dhawan,D Salunkhe,G Gambhir,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,14.,203,G Gambhir,D Salunkhe,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,14.,204,S Dhawan,D Salunkhe,G Gambhir,0,5,5,0,5,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,15.,205,S Dhawan,D Salunkhe,G Gambhir,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,15.,206,S Dhawan,SR Watson,G Gambhir,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,15.,207,G Gambhir,SR Watson,S Dhawan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,15.,208,G Gambhir,SR Watson,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,15.,209,S Dhawan,SR Watson,G Gambhir,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,15.,210,G Gambhir,SR Watson,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,16.,211,S Dhawan,SR Watson,G Gambhir,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,16.,212,G Gambhir,SK Trivedi,S Dhawan,0,1,1,0,1,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,16.,213,G Gambhir,SK Trivedi,S Dhawan,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,16.,214,S Dhawan,SK Trivedi,G Gambhir,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,16.,215,S Dhawan,SK Trivedi,G Gambhir,2,0,2,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,16.,216,S Dhawan,SK Trivedi,G Gambhir,4,0,4,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,17.,217,S Dhawan,SK Trivedi,G Gambhir,1,0,1,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,17.,218,G Gambhir,SK Trivedi,S Dhawan,0,0,0,0,0,0,0
-3,2007/08,Delhi,Feroz Shah Kotla,male,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,17.,219,S Dhawan,YK Pathan,G Gambhir,4,0,4,0,0,0,0
+match_number,season,city,venue,gender,umpires,winner,player_of_match,match_type,toss_winner,toss_decision,teams,team,over,ballno,batter,bowler,non_striker,runs_batter,runs_extras,legbyes,wides,noballs,byes,kind,player_out,fielders,runs_total
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,1,1,T Kohli,GD McGrath,YK Pathan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,1,2,T Kohli,GD McGrath,YK Pathan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,1,3,T Kohli,GD McGrath,YK Pathan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,1,4,T Kohli,GD McGrath,YK Pathan,0,1,0,1,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,1,5,T Kohli,GD McGrath,YK Pathan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,1,6,T Kohli,GD McGrath,YK Pathan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,2,1,T Kohli,GD McGrath,YK Pathan,6,0,0,0,0,0,-,-,,6
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,2,2,YK Pathan,B Geeves,T Kohli,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,2,3,T Kohli,B Geeves,YK Pathan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,2,4,T Kohli,B Geeves,YK Pathan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,2,5,T Kohli,B Geeves,YK Pathan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,2,6,YK Pathan,B Geeves,T Kohli,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,3,1,YK Pathan,B Geeves,T Kohli,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,3,2,T Kohli,GD McGrath,YK Pathan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,3,3,T Kohli,GD McGrath,YK Pathan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,3,4,T Kohli,GD McGrath,YK Pathan,0,0,0,0,0,0,caught,T Kohli,M Manhas,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,3,5,SR Watson,GD McGrath,YK Pathan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,3,6,SR Watson,GD McGrath,YK Pathan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,4,1,SR Watson,GD McGrath,YK Pathan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,4,2,YK Pathan,B Geeves,SR Watson,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,4,3,SR Watson,B Geeves,YK Pathan,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,4,4,SR Watson,B Geeves,YK Pathan,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,4,5,SR Watson,B Geeves,YK Pathan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,4,6,YK Pathan,B Geeves,SR Watson,0,0,0,0,0,0,run out,YK Pathan,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,5,1,SR Watson,B Geeves,M Kaif,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,5,2,M Kaif,GD McGrath,SR Watson,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,5,3,M Kaif,GD McGrath,SR Watson,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,5,4,M Kaif,GD McGrath,SR Watson,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,5,5,SR Watson,GD McGrath,M Kaif,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,5,6,SR Watson,GD McGrath,M Kaif,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,6,1,SR Watson,GD McGrath,M Kaif,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,6,2,SR Watson,MF Maharoof,M Kaif,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,6,3,SR Watson,MF Maharoof,M Kaif,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,6,4,M Kaif,MF Maharoof,SR Watson,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,6,5,M Kaif,MF Maharoof,SR Watson,0,1,1,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,6,6,SR Watson,MF Maharoof,M Kaif,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,7,1,M Kaif,MF Maharoof,SR Watson,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,7,2,SR Watson,R Bhatia,M Kaif,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,7,3,SR Watson,R Bhatia,M Kaif,1,0,0,0,0,0,run out,SR Watson,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,7,4,M Kaif,R Bhatia,DS Lehmann,2,0,0,0,0,0,-,-,,2
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,7,5,M Kaif,R Bhatia,DS Lehmann,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,7,6,M Kaif,R Bhatia,DS Lehmann,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,8,1,M Kaif,R Bhatia,DS Lehmann,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,8,2,M Kaif,MF Maharoof,DS Lehmann,0,1,1,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,8,3,DS Lehmann,MF Maharoof,M Kaif,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,8,4,M Kaif,MF Maharoof,DS Lehmann,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,8,5,DS Lehmann,MF Maharoof,M Kaif,0,0,0,0,0,0,lbw,DS Lehmann,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,8,6,RA Jadeja,MF Maharoof,M Kaif,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,9,1,RA Jadeja,MF Maharoof,M Kaif,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,9,2,RA Jadeja,R Bhatia,M Kaif,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,9,3,RA Jadeja,R Bhatia,M Kaif,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,9,4,RA Jadeja,R Bhatia,M Kaif,0,1,0,0,0,1,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,9,5,M Kaif,R Bhatia,RA Jadeja,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,9,6,RA Jadeja,R Bhatia,M Kaif,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,10,1,RA Jadeja,R Bhatia,M Kaif,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,10,2,RA Jadeja,MF Maharoof,M Kaif,0,1,1,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,10,3,M Kaif,MF Maharoof,RA Jadeja,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,10,4,RA Jadeja,MF Maharoof,M Kaif,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,10,5,M Kaif,MF Maharoof,RA Jadeja,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,10,6,RA Jadeja,MF Maharoof,M Kaif,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,11,1,M Kaif,MF Maharoof,RA Jadeja,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,11,2,M Kaif,R Bhatia,RA Jadeja,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,11,3,M Kaif,R Bhatia,RA Jadeja,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,11,4,M Kaif,R Bhatia,RA Jadeja,0,0,0,0,0,0,caught,M Kaif,B Geeves,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,11,5,M Rawat,R Bhatia,RA Jadeja,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,11,6,RA Jadeja,R Bhatia,M Rawat,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,12,1,RA Jadeja,R Bhatia,M Rawat,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,12,2,RA Jadeja,DL Vettori,M Rawat,6,0,0,0,0,0,-,-,,6
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,12,3,RA Jadeja,DL Vettori,M Rawat,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,12,4,RA Jadeja,DL Vettori,M Rawat,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,12,5,M Rawat,DL Vettori,RA Jadeja,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,12,6,M Rawat,DL Vettori,RA Jadeja,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,13,1,RA Jadeja,DL Vettori,M Rawat,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,13,2,M Rawat,R Bhatia,RA Jadeja,0,0,0,0,0,0,bowled,M Rawat,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,13,3,D Salunkhe,R Bhatia,RA Jadeja,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,13,4,D Salunkhe,R Bhatia,RA Jadeja,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,13,5,RA Jadeja,R Bhatia,D Salunkhe,0,2,0,2,0,0,-,-,,2
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,13,6,D Salunkhe,R Bhatia,RA Jadeja,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,14,1,D Salunkhe,R Bhatia,RA Jadeja,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,14,2,RA Jadeja,R Bhatia,D Salunkhe,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,14,3,RA Jadeja,B Geeves,D Salunkhe,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,14,4,RA Jadeja,B Geeves,D Salunkhe,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,14,5,D Salunkhe,B Geeves,RA Jadeja,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,14,6,RA Jadeja,B Geeves,D Salunkhe,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,15,1,RA Jadeja,B Geeves,D Salunkhe,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,15,2,D Salunkhe,B Geeves,RA Jadeja,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,15,3,RA Jadeja,DL Vettori,D Salunkhe,6,0,0,0,0,0,-,-,,6
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,15,4,RA Jadeja,DL Vettori,D Salunkhe,0,0,0,0,0,0,bowled,RA Jadeja,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,15,5,SK Warne,DL Vettori,D Salunkhe,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,15,6,SK Warne,DL Vettori,D Salunkhe,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,16,1,D Salunkhe,DL Vettori,SK Warne,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,16,2,SK Warne,DL Vettori,D Salunkhe,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,16,3,SK Warne,B Geeves,D Salunkhe,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,16,4,SK Warne,B Geeves,D Salunkhe,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,16,5,SK Warne,B Geeves,D Salunkhe,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,16,6,SK Warne,B Geeves,D Salunkhe,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,17,1,SK Warne,B Geeves,D Salunkhe,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,17,2,SK Warne,B Geeves,D Salunkhe,2,0,0,0,0,0,-,-,,2
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,17,3,D Salunkhe,DL Vettori,SK Warne,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,17,4,SK Warne,DL Vettori,D Salunkhe,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,17,5,SK Warne,DL Vettori,D Salunkhe,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,17,6,D Salunkhe,DL Vettori,SK Warne,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,18,1,D Salunkhe,DL Vettori,SK Warne,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,18,2,SK Warne,DL Vettori,D Salunkhe,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,18,3,SK Warne,MF Maharoof,D Salunkhe,0,0,0,0,0,0,bowled,SK Warne,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,18,4,SK Trivedi,MF Maharoof,D Salunkhe,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,18,5,SK Trivedi,MF Maharoof,D Salunkhe,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,18,6,SK Trivedi,MF Maharoof,D Salunkhe,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,19,1,SK Trivedi,MF Maharoof,D Salunkhe,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,19,2,D Salunkhe,MF Maharoof,SK Trivedi,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,19,3,SK Trivedi,DL Vettori,D Salunkhe,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,19,4,SK Trivedi,DL Vettori,D Salunkhe,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,19,5,D Salunkhe,DL Vettori,SK Trivedi,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,19,6,D Salunkhe,DL Vettori,SK Trivedi,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,20,1,D Salunkhe,DL Vettori,SK Trivedi,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,20,2,D Salunkhe,DL Vettori,SK Trivedi,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,20,3,D Salunkhe,GD McGrath,SK Trivedi,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,20,4,D Salunkhe,GD McGrath,SK Trivedi,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,20,5,D Salunkhe,GD McGrath,SK Trivedi,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,20,6,SK Trivedi,GD McGrath,D Salunkhe,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,1.0,1,D Salunkhe,GD McGrath,SK Trivedi,2,0,0,0,0,0,-,-,,2
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Rajasthan Royals,1.0,2,D Salunkhe,GD McGrath,SK Trivedi,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,1.0,3,G Gambhir,MM Patel,V Sehwag,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,1.0,4,G Gambhir,MM Patel,V Sehwag,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,1.0,5,G Gambhir,MM Patel,V Sehwag,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,1.0,6,G Gambhir,MM Patel,V Sehwag,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,2.0,1,G Gambhir,MM Patel,V Sehwag,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,2.0,2,G Gambhir,MM Patel,V Sehwag,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,2.0,3,V Sehwag,SR Watson,G Gambhir,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,2.0,4,V Sehwag,SR Watson,G Gambhir,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,2.0,5,V Sehwag,SR Watson,G Gambhir,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,2.0,6,V Sehwag,SR Watson,G Gambhir,0,0,0,0,0,0,bowled,V Sehwag,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,3.0,1,S Dhawan,SR Watson,G Gambhir,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,3.0,2,S Dhawan,SR Watson,G Gambhir,0,1,0,1,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,3.0,3,S Dhawan,SR Watson,G Gambhir,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,3.0,4,G Gambhir,MM Patel,S Dhawan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,3.0,5,G Gambhir,MM Patel,S Dhawan,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,3.0,6,G Gambhir,MM Patel,S Dhawan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,4.0,1,G Gambhir,MM Patel,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,4.0,2,S Dhawan,MM Patel,G Gambhir,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,4.0,3,S Dhawan,MM Patel,G Gambhir,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,4.0,4,G Gambhir,SR Watson,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,4.0,5,S Dhawan,SR Watson,G Gambhir,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,4.0,6,S Dhawan,SR Watson,G Gambhir,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,5.0,1,S Dhawan,SR Watson,G Gambhir,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,5.0,2,G Gambhir,SR Watson,S Dhawan,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,5.0,3,G Gambhir,SR Watson,S Dhawan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,5.0,4,S Dhawan,MM Patel,G Gambhir,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,5.0,5,S Dhawan,MM Patel,G Gambhir,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,5.0,6,G Gambhir,MM Patel,S Dhawan,6,0,0,0,0,0,-,-,,6
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,6.0,1,G Gambhir,MM Patel,S Dhawan,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,6.0,2,G Gambhir,MM Patel,S Dhawan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,6.0,3,G Gambhir,MM Patel,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,6.0,4,G Gambhir,SK Trivedi,S Dhawan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,6.0,5,G Gambhir,SK Trivedi,S Dhawan,0,1,0,1,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,6.0,6,G Gambhir,SK Trivedi,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,7.0,1,S Dhawan,SK Trivedi,G Gambhir,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,7.0,2,S Dhawan,SK Trivedi,G Gambhir,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,7.0,3,S Dhawan,SK Trivedi,G Gambhir,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,7.0,4,G Gambhir,SK Trivedi,S Dhawan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,7.0,5,S Dhawan,SR Watson,G Gambhir,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,7.0,6,G Gambhir,SR Watson,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,8.0,1,S Dhawan,SR Watson,G Gambhir,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,8.0,2,S Dhawan,SR Watson,G Gambhir,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,8.0,3,S Dhawan,SR Watson,G Gambhir,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,8.0,4,G Gambhir,SR Watson,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,8.0,5,G Gambhir,SK Trivedi,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,8.0,6,S Dhawan,SK Trivedi,G Gambhir,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,9.,1,S Dhawan,SK Trivedi,G Gambhir,0,1,0,1,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,9.,2,S Dhawan,SK Trivedi,G Gambhir,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,9.,3,S Dhawan,SK Trivedi,G Gambhir,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,9.,4,S Dhawan,SK Trivedi,G Gambhir,2,0,0,0,0,0,-,-,,2
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,9.,5,S Dhawan,SK Trivedi,G Gambhir,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,9.,6,G Gambhir,SK Warne,S Dhawan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,10.,1,G Gambhir,SK Warne,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,10.,2,S Dhawan,SK Warne,G Gambhir,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,10.,3,S Dhawan,SK Warne,G Gambhir,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,10.,4,S Dhawan,SK Warne,G Gambhir,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,10.,5,G Gambhir,SK Warne,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,10.,6,G Gambhir,YK Pathan,S Dhawan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,11.,1,G Gambhir,YK Pathan,S Dhawan,0,1,0,1,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,11.,2,G Gambhir,YK Pathan,S Dhawan,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,11.,3,G Gambhir,YK Pathan,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,11.,4,S Dhawan,YK Pathan,G Gambhir,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,11.,5,G Gambhir,YK Pathan,S Dhawan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,11.,6,G Gambhir,YK Pathan,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,12.,1,G Gambhir,SK Warne,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,12.,2,S Dhawan,SK Warne,G Gambhir,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,12.,3,G Gambhir,SK Warne,S Dhawan,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,12.,4,G Gambhir,SK Warne,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,12.,5,S Dhawan,SK Warne,G Gambhir,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,12.,6,G Gambhir,SK Warne,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,13.,1,G Gambhir,YK Pathan,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,13.,2,S Dhawan,YK Pathan,G Gambhir,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,13.,3,G Gambhir,YK Pathan,S Dhawan,2,0,0,0,0,0,-,-,,2
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,13.,4,G Gambhir,YK Pathan,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,13.,5,S Dhawan,YK Pathan,G Gambhir,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,13.,6,S Dhawan,YK Pathan,G Gambhir,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,14.,1,G Gambhir,D Salunkhe,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,14.,2,S Dhawan,D Salunkhe,G Gambhir,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,14.,3,G Gambhir,D Salunkhe,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,14.,4,S Dhawan,D Salunkhe,G Gambhir,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,14.,5,G Gambhir,D Salunkhe,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,14.,6,S Dhawan,D Salunkhe,G Gambhir,0,5,0,5,0,0,-,-,,5
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,15.,1,S Dhawan,D Salunkhe,G Gambhir,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,15.,2,S Dhawan,SR Watson,G Gambhir,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,15.,3,G Gambhir,SR Watson,S Dhawan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,15.,4,G Gambhir,SR Watson,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,15.,5,S Dhawan,SR Watson,G Gambhir,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,15.,6,G Gambhir,SR Watson,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,16.,1,S Dhawan,SR Watson,G Gambhir,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,16.,2,G Gambhir,SK Trivedi,S Dhawan,0,1,0,1,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,16.,3,G Gambhir,SK Trivedi,S Dhawan,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,16.,4,S Dhawan,SK Trivedi,G Gambhir,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,16.,5,S Dhawan,SK Trivedi,G Gambhir,2,0,0,0,0,0,-,-,,2
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,16.,6,S Dhawan,SK Trivedi,G Gambhir,4,0,0,0,0,0,-,-,,4
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,17.,1,S Dhawan,SK Trivedi,G Gambhir,1,0,0,0,0,0,-,-,,1
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,17.,2,G Gambhir,SK Trivedi,S Dhawan,0,0,0,0,0,0,-,-,,0
+3,2007/08,Delhi,Feroz Shah Kotla,male,"Aleem Dar,GA Pratapkumar",Delhi Daredevils,MF Maharoof,T20,Rajasthan Royals,bat,"Delhi Daredevils,Rajasthan Royals",Delhi Daredevils,17.,3,S Dhawan,YK Pathan,G Gambhir,4,0,0,0,0,0,-,-,,4
