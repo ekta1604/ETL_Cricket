@@ -1,4 +1,4 @@
-### Documentation for mysql_util.py file 
+### Documentation for mysql_util.py file.
 
 #### The script imports the necessary libraries:
 
